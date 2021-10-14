@@ -1,6 +1,5 @@
 # THIS CODE IS STRICTLY FOR DEVELOPMENT PURPOSES AND NOT TO BE CONSIDERED FOR PRODUCTION PURPOSES.
 
-
 ########## INSTALL LIBRARIES ##########
 
 # Install Azure AD library if not already installed.
